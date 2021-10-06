@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svbcoder&langs_count=8)](https://github.com/svbcoder/github-readme-stats)
 
-![How to] (https://user-images.githubusercontent.com/90440150/136151239-e646bd44-cd49-4ad8-94ec-1a86a9917b7c.mp4)
+How to [here](https://user-images.githubusercontent.com/90440150/136151239-e646bd44-cd49-4ad8-94ec-1a86a9917b7c.mp4) to see in action.  
 
 ## Available Scripts
 
