@@ -4,23 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svbcoder&langs_count=8)](https://github.com/svbcoder/github-readme-stats)
 
----
-layout: post
-title: "MP4 Video"
-modified:
-categories: 
-excerpt:
-tags: []
-image:
-  feature:
-date: 2014-11-18T11:34:04-05:00
----
-
-This is testing out Liquid.
-<video width="480" height="320" controls="controls">
-  <source src="https://github.com/svbcoder/media/blob/main/NasaAPI%20App%20Launch%20to%20Stop.mp4" type="video/mp4">
-</video>
-
+<iframe
+  src="https://github.com/svbcoder/media/blob/main/NasaAPI%20App%20Launch%20to%20Stop.mp4"
+  style="width:100%; height:300px;"
+></iframe>
 ## Available Scripts
 
 In the project directory, you can run:
