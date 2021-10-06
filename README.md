@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svbcoder&langs_count=8)](https://github.com/svbcoder/github-readme-stats)
 
-[![Alternate Text]({https://github.com/svbcoder/media/blob/main/NasaAPI%20App%20Launch%20to%20Stop.mp4})]({video-url} "Link Title")
+[![Alternate Text]({https://github.com/svbcoder/media/blob/main/NasaAPI%20App%20Launch%20to%20Stop.mp4})]({https://github.com/svbcoder/media/blob/main/NasaAPI%20App%20Launch%20to%20Stop.mp4} "Link Title")
 
 ## Available Scripts
 
