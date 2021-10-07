@@ -4,9 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svbcoder&langs_count=8)](https://github.com/svbcoder/github-readme-stats)
 
-https://user-images.githubusercontent.com/90440150/136152645-199ba284-580e-4319-836a-9617977db888.mp4
-
-
 ## Available Scripts
 
 In the project directory, you can run:
