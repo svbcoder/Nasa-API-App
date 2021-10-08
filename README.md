@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# NASA API App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple React JS app that displays daily photo of the day from NASA Public archives. It uses Naasa API to pull daily photo of the day. It is inspired from [tutorial](https://scotch.io/tutorials/make-a-stellar-react-nasa-app-in-10-minutes) that describes an API based app . You can build similar apps with APIs of other popular websites such as Discovery, CNN News, etc. Please make sure you are connected to internet for NASA API calls to work. Happy Coding ! Feel free to fiddle around more, fork it from my github repository. If you have any questions, you can add them as comments in github. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svbcoder&langs_count=8)](https://github.com/svbcoder/github-readme-stats)
+How to setup app: 
+
+https://user-images.githubusercontent.com/90440150/136476908-2d1c2e41-61a6-4156-a1e2-1100dff561e0.mp4
+
+It was coded using Microsoft VS Code on Windows 10 OS. Code is platform independent so you can run it on Unix variants. 
+
+[![Languages used](https://github-readme-stats.vercel.app/api?username=svbcoder&&show_icons=true&theme=default)](https://github.com/svbcoder/github-readme-stats)
+
 
 ## Available Scripts
 
@@ -40,33 +47,3 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
