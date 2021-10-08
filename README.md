@@ -2,6 +2,10 @@
 
 A simple React JS app that displays daily photo of the day from NASA Public archives. It uses Naasa API to pull daily photo of the day. It is inspired from [tutorial](https://scotch.io/tutorials/make-a-stellar-react-nasa-app-in-10-minutes) that describes an API based app . You can build similar apps with APIs of other popular websites such as Discovery, CNN News, etc. Please make sure you are connected to internet for NASA API calls to work. Happy Coding ! Feel free to fiddle around more, fork it from my github repository. If you have any questions, you can add them as comments in github. 
 
+Screenshots:
+
+![screen.gif](./NasaAPIApp.gif)
+
 How to setup app: 
 
 https://user-images.githubusercontent.com/90440150/136476908-2d1c2e41-61a6-4156-a1e2-1100dff561e0.mp4
